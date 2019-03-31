@@ -7,7 +7,8 @@ package quizapp;
 
 public class HowToPlay extends javax.swing.JPanel {
 
-    /**
+    /**denemememememememem
+    //Deneme deneme
      * Creates new form HowToPlay
      */
     public HowToPlay() {
