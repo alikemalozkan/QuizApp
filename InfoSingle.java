@@ -10,7 +10,7 @@ import javax.swing.JLabel;
 
 public class InfoSingle extends javax.swing.JPanel {
 
-    /**
+    /**denemee
      * Creates new form InfoSingle
      */
     //new JLabel question list for arrows
