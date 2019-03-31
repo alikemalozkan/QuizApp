@@ -1,4 +1,4 @@
-/*
+aa/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -7,8 +7,9 @@ package quizapp;
 
 public class HowToPlay extends javax.swing.JPanel {
 
-    /**
+    /**denemememememememem2334
      * Creates new form HowToPlay
+     bu kodu değiştir deneme
      */
     public HowToPlay() {
         initComponents();
@@ -33,6 +34,7 @@ public class HowToPlay extends javax.swing.JPanel {
         jLabel21 = new javax.swing.JLabel();
         jLabel22 = new javax.swing.JLabel();
         jLabel23 = new javax.swing.JLabel();
+        jLabel25 = new javax.swing.JLabel();
         homeButton = new javax.swing.JButton();
 
         setBackground(new java.awt.Color(255, 255, 255));
