@@ -5,6 +5,8 @@
  */
 package quizapp;
 
+//comment for change
+
 public class Player {
     //variables
     private String playerName;
@@ -18,6 +20,7 @@ public class Player {
 	public String getName(){
 		return playerName;
 	}
+  	int a=5; //new code
 	
 	public int getPoint(){
 		return point;
