@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+//needts to change
 package quizapp;
 
 public class Question {
@@ -10,6 +11,7 @@ public class Question {
 	public  String question;
 	public  String answer;
 	public  String[] choices;
+  int a;
 	
         //constructor
         public Question(String question, String answer, String[] choices){
