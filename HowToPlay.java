@@ -9,7 +9,7 @@ public class HowToPlay extends javax.swing.JPanel {
 
     /**
      * Creates new form HowToPlay
-     bu patch set 5 mi olacak?
+     bu patch set 5 mi olacak?  
      */
     public HowToPlay() {
         initComponents();
