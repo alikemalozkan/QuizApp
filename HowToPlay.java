@@ -9,7 +9,7 @@ public class HowToPlay extends javax.swing.JPanel {
 
     /**
      * Creates new form HowToPlay
-     bu patch set 5 mi olacak?
+     bu patch set 5 mi olacak?  
      */
     public HowToPlay() {
         initComponents();
@@ -27,6 +27,7 @@ public class HowToPlay extends javax.swing.JPanel {
         jLabel3 = new javax.swing.JLabel();
         jLabel4 = new javax.swing.JLabel();
         jLabel5 = new javax.swing.JLabel();
+      //editt
         jLabel6 = new javax.swing.JLabel();
         jLabel8 = new javax.swing.JLabel();
         jLabel2 = new javax.swing.JLabel();
